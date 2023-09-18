@@ -1,9 +1,9 @@
 import ftplib
 
 # Fill Required Information
-HOSTNAME = "ftpupload.net"
-USERNAME = "if0_34578425"
-PASSWORD = "psFJtLlF4L"
+HOSTNAME = "yourhost"
+USERNAME = "username"
+PASSWORD = "password"
 UPLOAD_FOLDER = 'htdocs/messenger'
 
 # Inputs
